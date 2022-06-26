@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raviichourase
 - 👀 I’m interested in exploring
-- 🌱 I’m currently learning c++ stl and oops.
+- 🌱 I’m currently learning python abd its various libraries.
 - 💞️ I’m looking to collaborate on basic projects.
 - 📫 How to reach me ==> ravindrachourase13@gmail.com
 
